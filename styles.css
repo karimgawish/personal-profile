@@ -15,10 +15,10 @@ body {
 
 a {
   text-decoration: none;
-  color: #999;
+  color: #c2992a;
 }
 a:hover {
-  color: #6633ff;
+  color: blue;
 }
 
 /* Section Styles */
@@ -181,6 +181,14 @@ a.social:hover {
   clear: both;
 }
 
+.wishlist{
+margin-top: 40px;
+padding: 3px;
+text-align: center;
+border: solid 2px #c2992a;
+border-radius: 5px;
+
+}
 /* Styles for larger screens */
 @media screen and (min-width: 720px) {
 
